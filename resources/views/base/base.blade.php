@@ -22,9 +22,9 @@
               <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                   <li class="nav-item">
-                    <a class="nav-link active" href="{{ route('base.index') }}">
+                    <a class="nav-link active" href="{{ route('cadastro.index') }}">
                         <i class="bi bi-house-door"></i>
-                        Home</a>
+                        Cadastros</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="{{ route('base.contato') }}">
